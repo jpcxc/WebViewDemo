@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/YmtWebView.iml" filepath="$PROJECT_DIR$/YmtWebView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adviser/adviser.iml" filepath="$PROJECT_DIR$/adviser/adviser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/client.iml" filepath="$PROJECT_DIR$/app/client.iml" />
     </modules>
   </component>
 </project>
